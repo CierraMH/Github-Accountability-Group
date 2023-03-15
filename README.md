@@ -20,4 +20,4 @@ _This week I learned how important communication was_
 
 #### Kayone Lee
 _This week I learned time management is very important_
-![book](https://www.trainingzone.co.uk/sites/default/files/styles/inline_banner/public/elenaleonova-books.jpg?itok=m85JH0pn)gi
+![book](https://www.trainingzone.co.uk/sites/default/files/styles/inline_banner/public/elenaleonova-books.jpg?itok=m85JH0pn)
