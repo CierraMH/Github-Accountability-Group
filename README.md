@@ -12,12 +12,6 @@ _I learned how to use git commands, Vscode, and GitHub._
  _I have learned Markdown details to help create headers, add images, and much more._  
 ![Smiling Sun](https://thumbs.dreamstime.com/z/smiling-sun-illustration-character-34434947.jpg)  
 =======
-##Cierra Minor-Hampton
-_I have learned Markdown details to help create headers, add images, and much more._
-![Smiling Sun][Sun]
-
-[Sun]:(https://www.dreamstime.com/royalty-free-stock-photography-smiling-sun-illustration-character-image34434947)
->>>>>>> 4b04bfdd000d2106c09090ddf478729ae017c4a8
 
 ### Lee Vue
 _This week I learned how important communication was_
