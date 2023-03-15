@@ -8,8 +8,8 @@ _I learned how to use git commands, Vscode, and GitHub._
 =======
 
 <<<<<<< HEAD
-## Cierra Minor-Hampton  
- _I have learned Markdown details to help create headers, add images, and much more._  
+## Cierra Minor-Hampton
+_I have learned Markdown details to help create headers, add images, and much more._  
 ![Smiling Sun](https://thumbs.dreamstime.com/z/smiling-sun-illustration-character-34434947.jpg)  
 =======
 
