@@ -1,14 +1,12 @@
 # my-new-repo
 
-<<<<<<< HEAD
 # Kia Lor  
 _I learned how to use git commands, Vscode, and GitHub._  
 ![cute cats](https://images.squarespace-cdn.com/content/v1/5b9580a050a54f9cd774077b/1607548759310-R91WKR9QPXMA85PFPF42/kawaii.png?format=500w)  
 
 =======
 
-<<<<<<< HEAD
-## Cierra Minor-Hampton
+## Cierra Minor-Hampton  
 _I have learned Markdown details to help create headers, add images, and much more._  
 ![Smiling Sun](https://thumbs.dreamstime.com/z/smiling-sun-illustration-character-34434947.jpg)  
 =======
@@ -20,7 +18,6 @@ _This week I learned how important communication was_
 #### Kayone Lee
 _This week I learned time management is very important_
 ![book](https://www.trainingzone.co.uk/sites/default/files/styles/inline_banner/public/elenaleonova-books.jpg?itok=m85JH0pn)
->>>>>>> 30b20ad61c453672e7bacce77b65d7aa4e9bc2d3
 
 ##### Elizabeth Drobinski
 
