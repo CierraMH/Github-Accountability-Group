@@ -21,3 +21,9 @@ _This week I learned how important communication was_
 _This week I learned time management is very important_
 ![book](https://www.trainingzone.co.uk/sites/default/files/styles/inline_banner/public/elenaleonova-books.jpg?itok=m85JH0pn)
 >>>>>>> 30b20ad61c453672e7bacce77b65d7aa4e9bc2d3
+
+##### Elizabeth Drobinski
+
+_I learned to slow down and have more patience with myself._
+![It keeps snowing](https://www.digitalmomblog.com/wp-content/uploads/2022/01/snow-storm-meme-funny-768x512.jpg.webp)
+
